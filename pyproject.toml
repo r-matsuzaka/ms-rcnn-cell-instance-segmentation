@@ -16,6 +16,7 @@ torch = "^1.1"
 jupyterlab = "^3.2.4"
 torchvision = "^0.11.1"
 pycocotools = "^2.0.2"
+kaggle = "^1.5.12"
 
 [tool.poetry.dev-dependencies]
 
