@@ -1,1 +1,3 @@
-maskscoring_rcnn
+maskscoring_rcnn/
+vision/
+cocoapi/
