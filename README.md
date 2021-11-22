@@ -5,12 +5,14 @@
 # How to install
 
 ```
-git clone https://github.com/r-matsuzaka/maskscoring_rcnn.git
+sh clone_all.sh
+poetry install
+source .venv/bin/activate
+sh build_all.sh
+```
 
-git clone https://github.com/pytorch/vision.git
+# Run demo notebook
+```
 
-git clone https://github.com/cocodataset/cocoapi.git
-
-sh build.sh
 
 ```
