@@ -13,8 +13,8 @@ sh build_all.sh
 
 # Download pretrained model
 Download res50-model_0090000.pth from [link](https://onedrive.live.com/?authkey=%21AIp9w89BB858UAE&id=1B7A5C8036695F7B%21832&cid=1B7A5C8036695F7B).
-
-And put it in `maskscoring_rcnn/pretrained_models`.
+Create `pretrained_models` directory under `maskscoring_rcnn`.
+Then put the model in `maskscoring_rcnn/pretrained_models`.
 
 # Run demo notebook
 Run
